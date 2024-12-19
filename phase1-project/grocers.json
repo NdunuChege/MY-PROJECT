@@ -1,0 +1,102 @@
+{
+  "groceries": [
+    {
+      "id": "1",
+      "name": "Organic Apples",
+      "origin": "Washington",
+      "quality": "Organic",
+      "quantity": 50,
+      "price": 2.5,
+      "grocerId": 1
+    },
+    {
+      "id": "2",
+      "name": "Fresh Tomatoes",
+      "origin": "California",
+      "quality": "Grade A",
+      "quantity": 100,
+      "price": 1.99,
+      "grocerId": 2
+    },
+    {
+      "id": "3",
+      "name": "Local Honey",
+      "origin": "Local Farm",
+      "quality": "Raw",
+      "quantity": 20,
+      "price": 8.99,
+      "grocerId": 1
+    },
+    {
+      "id": "4",
+      "name": "Organic Carrots",
+      "origin": "Colorado",
+      "quality": "Organic",
+      "quantity": 75,
+      "price": 1.5,
+      "grocerId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "role": "buyer"
+    },
+    {
+      "id": "2",
+      "email": "jane.smith@example.com",
+      "password": "secret",
+      "role": "buyer"
+    },
+    {
+      "id": "6d19",
+      "email": "",
+      "password": "",
+      "role": "seller"
+    },
+    {
+      "id": "01cc",
+      "email": "",
+      "password": "",
+      "role": "buyer"
+    },
+    {
+      "id": "b925",
+      "email": "mearc@gmail.com",
+      "password": "marco567",
+      "role": "buyer"
+    },
+    {
+      "id": "fd45",
+      "email": "ndunuian@gmail.com",
+      "password": "123456",
+      "role": "buyer"
+    },
+    {
+      "id": "fb72",
+      "email": "andrewjohn@gmail.com",
+      "password": "1234567",
+      "role": "buyer"
+    },
+    {
+      "id": "1171",
+      "email": "alinur@gmail.com",
+      "password": "5678",
+      "role": "buyer"
+    }
+  ],
+  "grocers": [
+    {
+      "id": "1",
+      "name": "Farmer Joe's",
+      "email": "farmerjoe@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Local Harvest",
+      "email": "localharvest@example.com"
+    }
+  ]
+}
